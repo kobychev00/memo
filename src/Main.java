@@ -69,5 +69,7 @@ public class Main {
         changePerson(person1);
         System.out.println(person1);
 
+        printSeparator(0);
+
     }
 }
